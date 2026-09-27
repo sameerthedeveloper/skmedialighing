@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+body { background: #f5f3ee; }
+::selection { background: #d7ff3f; color: #10100f; }

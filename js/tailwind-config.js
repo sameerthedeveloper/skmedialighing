@@ -1,0 +1,3 @@
+/* Tailwind Play CDN supplies the layout utilities. These project tokens are
+   declared here so every standalone legacy HTML file shares one visual system. */
+document.write('<style>.bg-ink{background-color:#10100f}.bg-paper{background-color:#f5f3ee}.bg-signal{background-color:#d7ff3f}.text-ink{color:#10100f}.text-signal{color:#d7ff3f}.border-ink{border-color:#10100f}.border-ink\\/15{border-color:rgb(16 16 15 / .15)}.border-ink\\/30{border-color:rgb(16 16 15 / .3)}.focus\\:border-signal:focus{border-color:#d7ff3f}.font-display{font-family:"Playfair Display",serif}.font-mono{font-family:"DM Mono",monospace}.hover\\:text-signal:hover{color:#d7ff3f}.hover\\:bg-white:hover{background:#fff}.hover\\:text-ink:hover{color:#10100f}</style>');
